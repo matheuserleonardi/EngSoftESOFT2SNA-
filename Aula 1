@@ -1,26 +1,16 @@
-1. Por que a Engenharia de Software surgiu como resposta a uma crise, e não apenas como evolução natural da programação?
+Meus Aplicativos do Dia a Dia
 
-A Engenharia de Software surgiu devido à chamada Crise do Software, ocorrida nas décadas de 1960 e 1970. Na época, os sistemas estavam se tornando 
-cada vez maiores e mais complexos, mas as técnicas de programação ainda eram simples e pouco organizadas. Como consequência, muitos projetos atrasavam, 
-ultrapassavam o orçamento, apresentavam muitos erros ou até eram cancelados antes de serem concluídos.
-Para solucionar esses problemas, foi criada a Engenharia de Software, que introduziu métodos, processos, documentação, testes, 
-gerenciamento de projetos e boas práticas para desenvolver softwares de forma mais organizada, eficiente e com maior qualidade. 
-Assim, ela surgiu como uma resposta aos desafios enfrentados pela indústria de software, e não apenas como uma evolução natural da programação.
+1. WhatsApp
 
-2. Um mesmo requisito pode ser atendido por tipos de aplicação muito diferentes (web, mobile, embarcado). O que muda na engenharia de cada um?
+Tipo de aplicação: Mobile.
+Característica do software: Confiabilidade, pois precisa entregar mensagens e chamadas de forma estável e segura.
 
-Embora o requisito funcional possa ser o mesmo, a forma de desenvolvê-lo varia conforme o tipo de aplicação.
-Aplicações Web: priorizam compatibilidade entre navegadores, segurança, escalabilidade e acesso pela internet.
-Aplicações Mobile: precisam considerar diferentes tamanhos de tela, consumo de bateria, uso de sensores do dispositivo e desempenho em smartphones.
-Sistemas Embarcados: normalmente possuem poucos recursos de hardware, exigem baixo consumo de energia, alta confiabilidade e, muitas vezes, funcionamento em tempo real.
-Dessa forma, a engenharia muda principalmente na arquitetura do sistema, nas tecnologias utilizadas, nos requisitos não funcionais, 
-nos testes e na forma como o software interage com o ambiente em que será executado.
+2. YouTube
 
-3. Se o software não se desgasta fisicamente, por que sistemas antigos ficam obsoletos ou difíceis de manter?
+Tipo de aplicação: Web e Mobile.
+Característica do software: Eficiência, já que precisa carregar vídeos rapidamente e oferecer boa qualidade de reprodução.
 
-O software realmente não sofre desgaste físico como um equipamento eletrônico. No entanto, ele pode se tornar obsoleto devido às mudanças 
-constantes na tecnologia e nas necessidades dos usuários.
-Com o passar do tempo, surgem novos sistemas operacionais, novas linguagens de programação, mudanças de requisitos e novas ameaças de segurança. 
-Além disso, muitos sistemas antigos possuem pouca documentação, código difícil de entender e dependem de tecnologias que já não recebem suporte.
-Esses fatores tornam a manutenção mais cara, demorada e arriscada, caracterizando os chamados sistemas legados. Por isso, mesmo sem desgaste físico, 
-um software pode se tornar difícil de atualizar e manter ao longo dos anos.
+3. Banco do Brasil (ou Nubank, se você usar)
+
+Tipo de aplicação: Mobile.
+Característica do software: Segurança/Confiabilidade, pois protege dados financeiros e garante transações corretas.
