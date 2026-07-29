@@ -1,0 +1,25 @@
+1. Qual a diferença prática entre "programar" e "fazer engenharia de software"? Em que momento um projeto pessoal passa a exigir um processo mais formal?
+
+Programar é a atividade de escrever código para que um sistema execute determinada função. 
+Já fazer Engenharia de Software envolve todo o processo de desenvolvimento, incluindo levantamento de 
+requisitos, planejamento, modelagem, testes, documentação, manutenção e gerenciamento do projeto.
+Um projeto pessoal passa a exigir um processo mais formal quando cresce em tamanho ou complexidade, possui vários usuários, 
+envolve uma equipe de desenvolvimento ou precisa ser mantido e atualizado com frequência. Nesses casos, 
+aplicar práticas de Engenharia de Software ajuda a organizar o trabalho, reduzir erros e facilitar futuras modificações.
+
+2. Dos 4 atributos de um bom software, qual você acha mais difícil de garantir na prática? Por quê?
+
+Entre os quatro atributos de um bom software (manutenibilidade, confiabilidade, eficiência e aceitabilidade), 
+considero a manutenibilidade o mais difícil de garantir.
+Isso porque, durante a evolução do sistema, novas funcionalidades e correções são adicionadas constantemente. 
+Se o código não estiver bem organizado, documentado e estruturado, cada alteração se torna mais complexa e aumenta o risco de introduzir 
+novos erros. Garantir a manutenibilidade exige planejamento desde o início do projeto e adoção contínua de boas práticas de desenvolvimento.
+
+3. O ciclo de vida é sempre sequencial? Por que a "evolução" pode levar de volta à "especificação"?
+
+Não. O ciclo de vida de um software nem sempre é sequencial. Em metodologias modernas, como o desenvolvimento ágil, 
+as etapas podem ser repetidas várias vezes conforme surgem novas necessidades.
+A fase de evolução pode levar de volta à especificação porque, ao atualizar ou melhorar um sistema, 
+frequentemente surgem novos requisitos ou mudanças nas necessidades dos usuários. 
+Antes de implementar essas alterações, é necessário revisar e redefinir os requisitos para garantir que o software continue 
+atendendo às expectativas e aos objetivos do projeto.
